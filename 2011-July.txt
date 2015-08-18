@@ -1,0 +1,19 @@
+From subgeometer at gmail.com  Mon Jul 25 06:46:49 2011
+From: subgeometer at gmail.com (Graf Cackle)
+Date: Mon, 25 Jul 2011 14:46:49 +1000
+Subject: [Xndraw-user] xndraw initial source code release
+Message-ID: <CAJ_eeFUpuT+JJ4ytkRqGJKctCnFfpqZ+aZfYgscVngpTc7rg2g@mail.gmail.com>
+
+The xndraw team would like to announce the first source release of xndraw, a
+program to create tilable shapes, wallpapers, and other patterns.
+
+xndraw should compile on unix like OS such as linux, BSD. Depends on gtkmm,
+and cairomm (with svg), and python.
+
+Feedback and potential collaborators/contributors will be welcomed
+
+John O'Driscoll
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/xndraw-user/attachments/20110725/2b2406cd/attachment.html>
+
